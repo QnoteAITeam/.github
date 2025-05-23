@@ -92,5 +92,6 @@ Qnote는 사용자 중심의 따뜻한 기술을 꿈꾸며, AI와 사람 사이�
 
 ---  
 
-## 현재 25.05.19 데이터 베이스 관계도 
-![image](https://github.com/user-attachments/assets/8e001482-8439-446a-98c4-99e8ba04f774)
+## 최근 25.05.24 데이터 베이스 관계도 
+![image](https://github.com/user-attachments/assets/1c4f4729-93bf-45c2-9af6-2f610daf6eaf)
+
